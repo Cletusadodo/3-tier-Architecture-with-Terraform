@@ -78,6 +78,7 @@ terraform destroy  [ If you are not using the infrastructure, apply the terrafor
 Contributions, improvements, and suggestions are welcome. Feel free to fork and PR!
 
 ✍️ Author
-Cletus Adodo
-Site Reliability | Cloud & DevOps Enthusiast
-LinkedIn | GitHub
+**Cletus Adodo**
+Site Reliability | Cloud & DevOps Engineer
+💼 [LinkedIn](https://www.linkedin.com/in/cletusenaholoadodo/)
+
