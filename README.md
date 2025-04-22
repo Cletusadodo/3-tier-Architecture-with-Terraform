@@ -80,5 +80,4 @@ Contributions, improvements, and suggestions are welcome. Feel free to fork and 
 ✍️ Author
 **Cletus Adodo**
 Site Reliability | Cloud & DevOps Engineer
-💼 [LinkedIn](https://www.linkedin.com/in/cletusenaholoadodo/)
 
